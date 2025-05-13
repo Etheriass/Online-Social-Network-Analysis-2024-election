@@ -21,7 +21,7 @@ This project analyzes Illinois’s 7th Congressional District to understand the 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow)
 - Precinct-level data processing
@@ -30,7 +30,7 @@ This project analyzes Illinois’s 7th Congressional District to understand the 
 
 ---
 
-## 📊 Highlights
+## Highlights
 
 - Trained models on over 390 precincts from IL-7  
 - Achieved <2% error in 2024 vote prediction with linear regression  
@@ -39,7 +39,7 @@ This project analyzes Illinois’s 7th Congressional District to understand the 
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 
 - [U.S. Census](https://www.census.gov/)
 - [Redistricting Data Hub](https://redistrictingdatahub.org/)
